@@ -7,10 +7,10 @@ This README.md file also contains a list of installed software.
 
 ## Terminal Stuff
 
+- iterm2 
+  - Nerdfont
 - git
 - neovim
-- iterm2 
-    - Nerdfont
 - tmux
 - homebrew
 - python3
@@ -55,6 +55,7 @@ This README.md file also contains a list of installed software.
 - Dolphin
 - DeSmuME
 - visualboyadvance
+- OpenVPN
 
 ## Once used software
 
