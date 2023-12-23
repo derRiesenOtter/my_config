@@ -13,6 +13,9 @@ This README.md file also contains a list of installed software.
     - Nerdfont
 - tmux
 - homebrew
+- python3
+- R
+- ImageMagick
 
 ## Normal Stuff
 
